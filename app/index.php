@@ -17,9 +17,6 @@
 	  <div class="col-xs-12 col-centered">
 	    <h1>Coin Army</h1>
 	  </div>
-	  <div class="col-xs-12 col-centered">
-	    <p>Join our Telegram group at <a href="https://telegram.me/coinarmy">https://telegram.me/coinarmy</a></p>
-	  </div>
       </div>
   </div>
 
