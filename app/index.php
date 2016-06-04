@@ -43,6 +43,7 @@
                         <td class="text-left">All Bitcoin, Cryptocurrency related chat</td>
                         <td class="text-left">51</td>
                         <td class="text-left"></td>
+                        <td class="text-left"><a href="https://telegram.me/PilotTris" target="_blank">@PilotTris</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -90,7 +91,7 @@
                         <td class="text-left">Bitcoin in Romania</td>
                         <td class="text-left">Bitcoin in Romania</td>
                         <td class="text-left">-</td>
-                        <td class="text-left"><a href="https://telegram.me/warlord1" target="_blank">warlord1</a></td>
+                        <td class="text-left"><a href="https://telegram.me/warlord1" target="_blank">@warlord1</a></td>
                     </tr>
                     <tr>
                         <td class="text-left"><a href="https://telegram.me/Bitcoinuk" target="_blank">Bitcoin UK</a></td>
@@ -126,7 +127,7 @@
                         <td class="text-left">Coin Dojo 2.0</td>
                         <td class="text-left">Bitcoin and Crypto Project Chat</td>
                         <td class="text-left">-</td>
-                        <td class="text-left"><a href="https://telegram.me/ShawnLeary" target="_blank">ShawnLeary</a></td>
+                        <td class="text-left"><a href="https://telegram.me/ShawnLeary" target="_blank">@ShawnLeary</a></td>
                     </tr>
                     </tbody>
                 </table>
@@ -150,7 +151,7 @@
                         <td class="text-left">StartHash</td>
                         <td class="text-left">Bitcoin mining farm</td>
                         <td class="text-left">-</td>
-                        <td class="text-left"><a href="https://telegram.me/BombaUcigasa" target="_blank">BombaUcigasa</a></td>
+                        <td class="text-left"><a href="https://telegram.me/BombaUcigasa" target="_blank">@BombaUcigasa</a></td>
                     </tr>
                     </tbody>
                 </table>
