@@ -26,19 +26,23 @@
 
     <div class="row">
         <div class="col-md-10 col-md-offset-1 col-lg-6 col-lg-offset-0 categoryContainer" data-id="2">
-            <h3 id="gettingstarted">Getting Started with Bitcoin</h3>
+            <h3 id="gettingstarted">Getting Started</h3>
             <div class="well">
                 <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
                     <thead>
                     <tr>
                         <th class="text-left" width="30%">Name</th>
-                        <th class="text-center" width="70%">Description</th>
+                        <th class="text-left" width="50%">Description</th>
+                        <th class="text-left" width="10%">Users</th>
+                        <th class="text-left" width="10%">Admin</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
-                        <td class="text-left"><a href="https://telegram.me/BTCro" target="_blank">Bitcoin in Romania</a></td>
-                        <td class="text-center">Bitcoin in Romania</td>
+                        <td class="text-left"><a href="https://telegram.me/BitcoinChat" target="_blank">Bitcoin Chat</a></td>
+                        <td class="text-left">All Bitcoin, Cryptocurrency related chat</td>
+                        <td class="text-left">51</td>
+                        <td class="text-left"></td>
                     </tr>
                     </tbody>
                 </table>
@@ -52,13 +56,17 @@
                     <thead>
                     <tr>
                         <th class="text-left" width="30%">Name</th>
-                        <th class="text-center" width="70%">Description</th>
+                        <th class="text-left" width="50%">Description</th>
+                        <th class="text-left" width="10%">Users</th>
+                        <th class="text-left" width="10%">Admin</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
-                        <td class="text-left"><a href="https://telegram.me/BTCro" target="_blank">Bitcoin in Romania</a></td>
-                        <td class="text-center">Bitcoin in Romania</td>
+                        <td class="text-left"><a href="https://telegram.me/whalepoolbtc" target="_blank">Whalepool</a></td>
+                        <td class="text-left">Bitcoin, Crypto and legacy market traders</td>
+                        <td class="text-left">651</td>
+                        <td class="text-left"></td>
                     </tr>
                     </tbody>
                 </table>
@@ -72,17 +80,53 @@
                     <thead>
                     <tr>
                         <th class="text-left" width="30%">Name</th>
-                        <th class="text-center" width="70%">Description</th>
+                        <th class="text-left" width="50%">Description</th>
+                        <th class="text-left" width="10%">Users</th>
+                        <th class="text-left" width="10%">Admin</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
-                        <td class="text-left"><a href="https://telegram.me/BTCro" target="_blank">Bitcoin in Romania</a></td>
-                        <td class="text-center">Bitcoin in Romania</td>
+                        <td class="text-left">Bitcoin in Romania</td>
+                        <td class="text-left">Bitcoin in Romania</td>
+                        <td class="text-left">50</td>
+                        <td class="text-left"><a href="https://telegram.me/warlord1" target="_blank">warlord1</a></td>
                     </tr>
                     <tr>
                         <td class="text-left"><a href="https://telegram.me/Bitcoinuk" target="_blank">Bitcoin UK</a></td>
-                        <td class="text-center">Bitcoin UK</td>
+                        <td class="text-left">Bitcoin UK</td>
+                        <td class="text-left">33</td>
+                        <td class="text-left"></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="col-md-10 col-md-offset-1 col-lg-6 col-lg-offset-0 categoryContainer" data-id="2">
+            <h3 id="gettingstarted">Advanced</h3>
+            <div class="well">
+                <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
+                    <thead>
+                    <tr>
+                        <th class="text-left" width="30%">Name</th>
+                        <th class="text-left" width="50%">Description</th>
+                        <th class="text-left" width="10%">Users</th>
+                        <th class="text-left" width="10%">Admin</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td class="text-left"><a href="https://telegram.me/thecoinfarm" target="_blank">The Coin Farm</a></td>
+                        <td class="text-left">Cryptocurrency TA traders</td>
+                        <td class="text-left">631</td>
+                        <td class="text-left"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-left">Coin Dojo 2.0</td>
+                        <td class="text-left">Bitcoin and Crypto Project Chat</td>
+                        <td class="text-left">286</td>
+                        <td class="text-left"><a href="https://telegram.me/ShawnLeary" target="_blank">ShawnLeary</a></td>
                     </tr>
                     </tbody>
                 </table>
