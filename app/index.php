@@ -26,7 +26,7 @@
 
     <div class="row">
         <div class="col-md-10 col-md-offset-1 col-lg-6 col-lg-offset-0 categoryContainer" data-id="2">
-            <h3 id="gettingstarted">Getting Started</h3>
+            <h3 id="gettingstarted">Start</h3>
             <div class="well">
                 <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
                     <thead>
@@ -50,7 +50,7 @@
         </div>
 
         <div class="col-md-10 col-md-offset-1 col-lg-6 col-lg-offset-0 categoryContainer" data-id="2">
-            <h3 id="gettingstarted">Bitcoin Trading</h3>
+            <h3 id="gettingstarted">Trading</h3>
             <div class="well">
                 <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
                     <thead>
@@ -74,7 +74,7 @@
         </div>
 
         <div class="col-md-10 col-md-offset-1 col-lg-6 col-lg-offset-0 categoryContainer" data-id="2">
-            <h3 id="gettingstarted">Local Communities</h3>
+            <h3 id="gettingstarted">Local</h3>
             <div class="well">
                 <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
                     <thead>
@@ -127,6 +127,30 @@
                         <td class="text-left">Bitcoin and Crypto Project Chat</td>
                         <td class="text-left">286</td>
                         <td class="text-left"><a href="https://telegram.me/ShawnLeary" target="_blank">ShawnLeary</a></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="col-md-10 col-md-offset-1 col-lg-6 col-lg-offset-0 categoryContainer" data-id="2">
+            <h3 id="gettingstarted">Businesses</h3>
+            <div class="well">
+                <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
+                    <thead>
+                    <tr>
+                        <th class="text-left" width="30%">Name</th>
+                        <th class="text-left" width="50%">Description</th>
+                        <th class="text-left" width="10%">Users</th>
+                        <th class="text-left" width="10%">Admin</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td class="text-left">StartHash</td>
+                        <td class="text-left"></td>
+                        <td class="text-left"></td>
+                        <td class="text-left"><a href="https://telegram.me/BombaUcigasa" target="_blank">BombaUcigasa</a></td>
                     </tr>
                     </tbody>
                 </table>
