@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/_/dance/default.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/_/inc/head.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dist/index.php" charset="UTF-8" />
+  </component>
+</project>

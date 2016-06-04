@@ -1,0 +1,32 @@
+body.dark {
+	filter: invert(100%) hue-rotate(-180deg);
+	-webkit-filter: invert(100%) hue-rotate(-180deg);
+	-ms-filter: invert(100%) hue-rotate(-180deg);
+	background-color:#333;
+}
+
+.dark .noDark, .dark .qrCode, .dark *[class^='famfamfam-flag'] {
+	filter: invert(100%) hue-rotate(-180deg);
+	-webkit-filter: invert(100%) hue-rotate(-180deg);
+	-ms-filter: invert(100%) hue-rotate(-180deg);
+}
+
+.dark .btn-material-lime {
+	background-color:#A3AF2E !important;
+}
+
+.dark td.success, .dark .success td {
+	background-color:#A0C790 !important;
+}
+
+.dark td.warning, .dark .warning td {
+	background-color:#AB9E5B !important;
+}
+
+.dark td.danger, .dark .danger td {
+	background-color:#FFBBBB !important;
+}
+
+.dark .label {
+	font-weight:100;
+}
