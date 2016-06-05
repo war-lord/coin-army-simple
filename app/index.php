@@ -78,8 +78,9 @@
                     <tr>
                         <td class="text-left"><a href="https://telegram.me/thecoinfarm" target="_blank">The Coin Farm</a></td>
                         <td class="text-left">Cryptocurrency TA traders</td>
+                        <td class="text-left">-</td>
                         <td class="text-left">631</td>
-                        <td class="text-left"></td>
+
                     </tr>
                     <tr>
                         <td class="text-left"><a href="https://telegram.me/shitcoincharts" target="_blank">Shitcoin Charts</a></td>
