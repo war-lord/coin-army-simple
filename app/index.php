@@ -118,9 +118,15 @@
                         <td class="text-left"><a href="https://telegram.me/whitesideofwhite" target="_blank">@whitesideofwhite</a></td>
                     </tr>
                     <tr>
+                        <td class="text-left"><a href="httpshttps://telegram.me/joinchat/C9lLdT9Kwl7VQ81sLponXA" target="_blank">Bitcoin UK</a></td>
+                        <td class="text-left">Bitcoin Kenya</td>
+                        <td class="text-left">20</td>
+                        <td class="text-left"><a href="https://telegram.me/Cru23" target="_blank">@Cru23</a></td>
+                    </tr>
+                    <tr>
                         <td class="text-left">Bitcoin in Romania</td>
                         <td class="text-left">Bitcoin in Romania</td>
-                        <td class="text-left">-</td>
+                        <td class="text-left">50</td>
                         <td class="text-left"><a href="https://telegram.me/warlord1" target="_blank">@warlord1</a></td>
                     </tr>
                     </tbody>
@@ -148,9 +154,10 @@
                         <td class="text-left"></td>
                     </tr>
                     <tr>
+                        <td class="text-left"><a href="https://telegram.me/joinchat/AsVHrzvLq0SNnLuVGzZt6g" target="_blank">Coin Dojo 2.0</a></td>
                         <td class="text-left">Coin Dojo 2.0</td>
                         <td class="text-left">Bitcoin and Crypto Project Chat</td>
-                        <td class="text-left">-</td>
+                        <td class="text-left">286</td>
                         <td class="text-left"><a href="https://telegram.me/ShawnLeary" target="_blank">@ShawnLeary</a></td>
                     </tr>
                     </tbody>
