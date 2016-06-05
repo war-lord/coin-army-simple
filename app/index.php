@@ -38,6 +38,12 @@
                     </tr>
                     </thead>
                     <tbody>
+                   <tr>
+                        <td class="text-left"><a href="https://telegram.me/joinchat/AsVHrzvLq0SNnLuVGzZt6g" target="_blank">Coin Dojo 2.0</a></td>
+                        <td class="text-left">Bitcoin and Crypto Project Chat</td>
+                        <td class="text-left">286</td>
+                        <td class="text-left"><a href="https://telegram.me/ShawnLeary" target="_blank">@ShawnLeary</a></td>
+                    </tr>
                     <tr>
                         <td class="text-left"><a href="https://telegram.me/BitcoinChat" target="_blank">Bitcoin Chat</a></td>
                         <td class="text-left">All Bitcoin, Cryptocurrency related chat</td>
