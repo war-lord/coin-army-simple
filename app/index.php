@@ -76,16 +76,22 @@
                         <td class="text-left">1324</td>
                     </tr>
                     <tr>
-                        <td class="text-left"><a href="https://telegram.me/shitcointalkromania" target="_blank">ShitcoinTalk</a></td>
-                        <td class="text-left">Shitcoin Army, Trading Bots</td>
-                        <td class="text-left"><a href="https://telegram.me/bombaucigasa" target="_blank">@Bomba...</a></td>
-                        <td class="text-left">68</td>
+                        <td class="text-left"><a href="https://telegram.me/thecoinfarm" target="_blank">The Coin Farm</a></td>
+                        <td class="text-left">Cryptocurrency TA traders</td>
+                        <td class="text-left">631</td>
+                        <td class="text-left"></td>
                     </tr>
                     <tr>
                         <td class="text-left"><a href="https://telegram.me/shitcoincharts" target="_blank">Shitcoin Charts</a></td>
                         <td class="text-left">Shitcoin information - Triangles and pretty lines.</td>
                         <td class="text-left"><a href="https://telegram.me/flibbr" target="_blank">@flibbr</a></td>
                         <td class="text-left">46</td>
+                    </tr>
+                    <tr>
+                        <td class="text-left"><a href="https://telegram.me/shitcointalkromania" target="_blank">ShitcoinTalk</a></td>
+                        <td class="text-left">Shitcoin Army, Trading Bots</td>
+                        <td class="text-left"><a href="https://telegram.me/bombaucigasa" target="_blank">@Bomba...</a></td>
+                        <td class="text-left">68</td>
                     </tr>
                     </tbody>
                 </table>
@@ -148,14 +154,7 @@
                     </thead>
                     <tbody>
                     <tr>
-                        <td class="text-left"><a href="https://telegram.me/thecoinfarm" target="_blank">The Coin Farm</a></td>
-                        <td class="text-left">Cryptocurrency TA traders</td>
-                        <td class="text-left">631</td>
-                        <td class="text-left"></td>
-                    </tr>
-                    <tr>
                         <td class="text-left"><a href="https://telegram.me/joinchat/AsVHrzvLq0SNnLuVGzZt6g" target="_blank">Coin Dojo 2.0</a></td>
-                        <td class="text-left">Coin Dojo 2.0</td>
                         <td class="text-left">Bitcoin and Crypto Project Chat</td>
                         <td class="text-left">286</td>
                         <td class="text-left"><a href="https://telegram.me/ShawnLeary" target="_blank">@ShawnLeary</a></td>
