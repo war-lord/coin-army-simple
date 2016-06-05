@@ -118,7 +118,7 @@
                         <td class="text-left"><a href="https://telegram.me/whitesideofwhite" target="_blank">@whitesideofwhite</a></td>
                     </tr>
                     <tr>
-                        <td class="text-left"><a href="httpshttps://telegram.me/joinchat/C9lLdT9Kwl7VQ81sLponXA" target="_blank">Bitcoin UK</a></td>
+                        <td class="text-left"><a href="httpshttps://telegram.me/joinchat/C9lLdT9Kwl7VQ81sLponXA" target="_blank">Bitcoin Kenya</a></td>
                         <td class="text-left">Bitcoin Kenya</td>
                         <td class="text-left">20</td>
                         <td class="text-left"><a href="https://telegram.me/Cru23" target="_blank">@Cru23</a></td>
