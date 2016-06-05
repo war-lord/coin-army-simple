@@ -31,7 +31,7 @@
                 <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
                     <thead>
                     <tr>
-                        <th class="text-left" width="30%">Name</th>
+                        <th class="text-left" width="20%">Name</th>
                         <th class="text-left" width="50%">Description</th>
                         <th class="text-left" width="10%">Users</th>
                         <th class="text-left" width="10%">Admin</th>
@@ -56,18 +56,36 @@
                 <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
                     <thead>
                     <tr>
-                        <th class="text-left" width="30%">Name</th>
-                        <th class="text-left" width="50%">Description</th>
-                        <th class="text-left" width="10%">Users</th>
+                        <th class="text-left" width="10%">Name</th>
+                        <th class="text-left" width="55%">Description</th>
                         <th class="text-left" width="10%">Admin</th>
+                        <th class="text-left" width="5%">Members</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
                         <td class="text-left"><a href="https://telegram.me/whalepoolbtc" target="_blank">Whalepool</a></td>
                         <td class="text-left">Bitcoin, Crypto and legacy market traders</td>
+                        <td class="text-left"><a href="https://telegram.me/warlord1" target="_blank">@flibbr</a></td>
                         <td class="text-left">651</td>
-                        <td class="text-left"></td>
+                    </tr>
+                    <tr>
+                        <td class="text-left"><a href="https://telegram.me/joinchat/BpTIDjwx_ayUl5zN84uQBw" target="_blank">Whaleclub</a></td>
+                        <td class="text-left">Talk to other traders anytime of the day. Bitcoin markets never sleep!</td>
+                        <td class="text-left"><a href="https://telegram.me/btcvix" target="_blank">@BTCVIX</a></td>
+                        <td class="text-left">1324</td>
+                    </tr>
+                    <tr>
+                        <td class="text-left"><a href="https://telegram.me/shitcointalkromania" target="_blank">ShitcoinTalk</a></td>
+                        <td class="text-left">Shitcoin Army, Trading Bots</td>
+                        <td class="text-left"><a href="https://telegram.me/bombaucigasa" target="_blank">@Bomba...</a></td>
+                        <td class="text-left">68</td>
+                    </tr>
+                    <tr>
+                        <td class="text-left"><a href="https://telegram.me/shitcoincharts" target="_blank">Shitcoin Charts</a></td>
+                        <td class="text-left">Shitcoin information - Triangles and pretty lines.</td>
+                        <td class="text-left"><a href="https://telegram.me/flibbr" target="_blank">@flibbr</a></td>
+                        <td class="text-left">46</td>
                     </tr>
                     </tbody>
                 </table>
@@ -88,16 +106,22 @@
                     </thead>
                     <tbody>
                     <tr>
+                        <td class="text-left"><a href="https://telegram.me/Bitcoinuk" target="_blank">Bitcoin UK</a></td>
+                        <td class="text-left">Bitcoin UK</td>
+                        <td class="text-left">33</td>
+                        <td class="text-left"><a href="https://telegram.me/rawavocado" target="_blank">@rawavocado</a></td>
+                    </tr>
+                    <tr>
+                        <td class="text-left">Deutsches Bitcoin</td>
+                        <td class="text-left">Alles über Bitcoin und Kryptowährung</td>
+                        <td class="text-left">48</td>
+                        <td class="text-left"><a href="https://telegram.me/whitesideofwhite" target="_blank">@whitesideofwhite</a></td>
+                    </tr>
+                    <tr>
                         <td class="text-left">Bitcoin in Romania</td>
                         <td class="text-left">Bitcoin in Romania</td>
                         <td class="text-left">-</td>
                         <td class="text-left"><a href="https://telegram.me/warlord1" target="_blank">@warlord1</a></td>
-                    </tr>
-                    <tr>
-                        <td class="text-left"><a href="https://telegram.me/Bitcoinuk" target="_blank">Bitcoin UK</a></td>
-                        <td class="text-left">Bitcoin UK</td>
-                        <td class="text-left">33</td>
-                        <td class="text-left"></td>
                     </tr>
                     </tbody>
                 </table>
