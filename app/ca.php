@@ -32,7 +32,7 @@
                     <thead>
                     <tr>
                         <th class="text-left" width="20%">Division</th>
-                        <th class="text-left" width="50%">Objectiv</th>
+                        <th class="text-left" width="50%">Objective</th>
                         <th class="text-left" width="10%">Users</th>
                         <th class="text-left" width="10%">General</th>
                     </tr>
@@ -57,7 +57,7 @@
                     <thead>
                     <tr>
                         <th class="text-left" width="10%">Division</th>
-                        <th class="text-left" width="55%">Objectiv</th>
+                        <th class="text-left" width="55%">Objective</th>
                         <th class="text-left" width="10%">General</th>
                         <th class="text-left" width="5%">Cadets</th>
                     </tr>
@@ -106,7 +106,7 @@
                     <thead>
                     <tr>
                         <th class="text-left" width="30%">Division</th>
-                        <th class="text-left" width="50%">Objectiv</th>
+                        <th class="text-left" width="50%">Objective</th>
                         <th class="text-left" width="10%">Users</th>
                         <th class="text-left" width="10%">General</th>
                     </tr>
@@ -148,7 +148,7 @@
                     <thead>
                     <tr>
                         <th class="text-left" width="30%">Division</th>
-                        <th class="text-left" width="50%">Objectiv</th>
+                        <th class="text-left" width="50%">Objective</th>
                         <th class="text-left" width="10%">Users</th>
                         <th class="text-left" width="10%">General</th>
                     </tr>
@@ -172,7 +172,7 @@
                     <thead>
                     <tr>
                         <th class="text-left" width="30%">Division</th>
-                        <th class="text-left" width="50%">Objectiv</th>
+                        <th class="text-left" width="50%">Objective</th>
                         <th class="text-left" width="10%">Users</th>
                         <th class="text-left" width="10%">General</th>
                     </tr>
