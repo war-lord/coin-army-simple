@@ -31,10 +31,10 @@
                 <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
                     <thead>
                     <tr>
-                        <th class="text-left" width="20%">Name</th>
-                        <th class="text-left" width="50%">Description</th>
+                        <th class="text-left" width="20%">Division</th>
+                        <th class="text-left" width="50%">Objectiv</th>
                         <th class="text-left" width="10%">Users</th>
-                        <th class="text-left" width="10%">Admin</th>
+                        <th class="text-left" width="10%">General</th>
                     </tr>
                     </thead>
                     <tbody>
@@ -56,10 +56,10 @@
                 <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
                     <thead>
                     <tr>
-                        <th class="text-left" width="10%">Name</th>
-                        <th class="text-left" width="55%">Description</th>
-                        <th class="text-left" width="10%">Admin</th>
-                        <th class="text-left" width="5%">Members</th>
+                        <th class="text-left" width="10%">Division</th>
+                        <th class="text-left" width="55%">Objectiv</th>
+                        <th class="text-left" width="10%">General</th>
+                        <th class="text-left" width="5%">Cadets</th>
                     </tr>
                     </thead>
                     <tbody>
@@ -105,10 +105,10 @@
                 <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
                     <thead>
                     <tr>
-                        <th class="text-left" width="30%">Name</th>
-                        <th class="text-left" width="50%">Description</th>
+                        <th class="text-left" width="30%">Division</th>
+                        <th class="text-left" width="50%">Objectiv</th>
                         <th class="text-left" width="10%">Users</th>
-                        <th class="text-left" width="10%">Admin</th>
+                        <th class="text-left" width="10%">General</th>
                     </tr>
                     </thead>
                     <tbody>
@@ -147,10 +147,10 @@
                 <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
                     <thead>
                     <tr>
-                        <th class="text-left" width="30%">Name</th>
-                        <th class="text-left" width="50%">Description</th>
+                        <th class="text-left" width="30%">Division</th>
+                        <th class="text-left" width="50%">Objectiv</th>
                         <th class="text-left" width="10%">Users</th>
-                        <th class="text-left" width="10%">Admin</th>
+                        <th class="text-left" width="10%">General</th>
                     </tr>
                     </thead>
                     <tbody>
@@ -171,10 +171,10 @@
                 <table class="table table-striped table-hover sortable-theme-bootstrap table-condensed" data-sortable="" data-sortable-initialized="true">
                     <thead>
                     <tr>
-                        <th class="text-left" width="30%">Name</th>
-                        <th class="text-left" width="50%">Description</th>
+                        <th class="text-left" width="30%">Division</th>
+                        <th class="text-left" width="50%">Objectiv</th>
                         <th class="text-left" width="10%">Users</th>
-                        <th class="text-left" width="10%">Admin</th>
+                        <th class="text-left" width="10%">General</th>
                     </tr>
                     </thead>
                     <tbody>
