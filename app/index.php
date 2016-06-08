@@ -168,9 +168,6 @@
 
 <?php require('_/inc/footer.php'); ?>
 
-<!-- JAVASCRIPT -->
-<?php require('_/inc/analytics.php'); ?>
-
 <?php require('_/inc/tail.php'); ?>
 </body>
 </html>
